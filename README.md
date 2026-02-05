@@ -140,5 +140,3 @@ Potential enhancements for this project include:
 
 ---
 
-
-Just say the word 😊
